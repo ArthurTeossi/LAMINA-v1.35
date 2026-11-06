@@ -1,0 +1,23 @@
+LÂMINA — ALTERAÇÕES DESTA VERSÃO
+
+- 10 skills para cada um dos 3 personagens selecionáveis.
+- Novos comportamentos de skill: ondas, armadilhas, cadeias e investidas instantâneas.
+- Armas de fogo no Ato 3: duas variantes, 30 tiros por arma, munição no HUD e descarte ao esvaziar.
+- Reflexo pixelado dos personagens e detalhes de água no Ato 4.
+- Iluminação adicional nos personagens e lens flare condicionado à visibilidade do sol.
+- Slide: perde velocidade e fica parado enquanto S continuar pressionado; pulo ou soltar S encerra a posição.
+- Esquiva de projéteis no slide com janela e cooldown após falha.
+- Espadachim com silhueta mais samurai e espada nos três primeiros M1s.
+- Macaco boss com corpo maior e mais barrigudo; ataque de árvore muito perigoso.
+- Barra de vida de boss no topo central.
+- 3 vidas por ato.
+- Interações do mapa com sprites diferentes; quantidades por mapa: 2, 3, 4, 5 e 6.
+- Tela de derrota sem clique no fundo, evitando voltar ao menu por clique acidental.
+- Suporte para SFX e músicas opcionais na pasta uploads/.
+
+OBSERVAÇÃO
+O projeto recebido continha apenas lamina/index.html. Não havia sprites, arquivos de áudio ou outros assets separados.
+Por isso, as melhorias visuais foram feitas com desenho pixelado pelo Canvas e o áudio foi preparado para receber os arquivos .ogg descritos em uploads/README.txt.
+
+- Investida e Estocada agora têm comportamentos diferentes; também foram diferenciados Lâmina Dupla, Chute Meteoro e Soco Dragão.
+- Espadachim redesenhado com kabuto, placas de armadura e silhueta mais samurai.
